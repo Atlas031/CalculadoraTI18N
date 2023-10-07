@@ -1,0 +1,8 @@
+C:\Users\elias.asantos10\source\repos\ProjetoTI18NVDD\ProjetoTI18NVDD\bin\Debug\ProjetoTI18NVDD.exe.config
+C:\Users\elias.asantos10\source\repos\ProjetoTI18NVDD\ProjetoTI18NVDD\bin\Debug\ProjetoTI18NVDD.exe
+C:\Users\elias.asantos10\source\repos\ProjetoTI18NVDD\ProjetoTI18NVDD\bin\Debug\ProjetoTI18NVDD.pdb
+C:\Users\elias.asantos10\source\repos\ProjetoTI18NVDD\ProjetoTI18NVDD\obj\Debug\ProjetoTI18NVDD.csproj.AssemblyReference.cache
+C:\Users\elias.asantos10\source\repos\ProjetoTI18NVDD\ProjetoTI18NVDD\obj\Debug\ProjetoTI18NVDD.csproj.SuggestedBindingRedirects.cache
+C:\Users\elias.asantos10\source\repos\ProjetoTI18NVDD\ProjetoTI18NVDD\obj\Debug\ProjetoTI18NVDD.csproj.CoreCompileInputs.cache
+C:\Users\elias.asantos10\source\repos\ProjetoTI18NVDD\ProjetoTI18NVDD\obj\Debug\ProjetoTI18NVDD.exe
+C:\Users\elias.asantos10\source\repos\ProjetoTI18NVDD\ProjetoTI18NVDD\obj\Debug\ProjetoTI18NVDD.pdb
